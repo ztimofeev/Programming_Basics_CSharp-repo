@@ -1,0 +1,10 @@
+c:\users\timofeev\documents\visual studio 2015\Projects\Lecture 4\Hollyday\bin\Debug\Hollyday.exe.config
+c:\users\timofeev\documents\visual studio 2015\Projects\Lecture 4\Hollyday\bin\Debug\Hollyday.exe
+c:\users\timofeev\documents\visual studio 2015\Projects\Lecture 4\Hollyday\bin\Debug\Hollyday.pdb
+c:\users\timofeev\documents\visual studio 2015\Projects\Lecture 4\Hollyday\obj\Debug\Hollyday.exe
+c:\users\timofeev\documents\visual studio 2015\Projects\Lecture 4\Hollyday\obj\Debug\Hollyday.pdb
+C:\Users\Timofeev\Documents\Visual Studio 2015\Projects\Lecture-4-ComplexConditionStatments\Hollyday\bin\Debug\Hollyday.exe.config
+C:\Users\Timofeev\Documents\Visual Studio 2015\Projects\Lecture-4-ComplexConditionStatments\Hollyday\obj\Debug\Hollyday.exe
+C:\Users\Timofeev\Documents\Visual Studio 2015\Projects\Lecture-4-ComplexConditionStatments\Hollyday\obj\Debug\Hollyday.pdb
+C:\Users\Timofeev\Documents\Visual Studio 2015\Projects\Lecture-4-ComplexConditionStatments\Hollyday\bin\Debug\Hollyday.exe
+C:\Users\Timofeev\Documents\Visual Studio 2015\Projects\Lecture-4-ComplexConditionStatments\Hollyday\bin\Debug\Hollyday.pdb

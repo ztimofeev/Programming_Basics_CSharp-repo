@@ -1,0 +1,5 @@
+C:\Users\Timofeev\Documents\Visual Studio 2017\Projects\Lecture-7-AdvanceLoops\SumOfDigits\bin\Debug\SumOfDigits.exe.config
+C:\Users\Timofeev\Documents\Visual Studio 2017\Projects\Lecture-7-AdvanceLoops\SumOfDigits\bin\Debug\SumOfDigits.exe
+C:\Users\Timofeev\Documents\Visual Studio 2017\Projects\Lecture-7-AdvanceLoops\SumOfDigits\bin\Debug\SumOfDigits.pdb
+C:\Users\Timofeev\Documents\Visual Studio 2017\Projects\Lecture-7-AdvanceLoops\SumOfDigits\obj\Debug\SumOfDigits.exe
+C:\Users\Timofeev\Documents\Visual Studio 2017\Projects\Lecture-7-AdvanceLoops\SumOfDigits\obj\Debug\SumOfDigits.pdb

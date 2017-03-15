@@ -1,0 +1,5 @@
+C:\Users\Timofeev\Documents\Visual Studio 2017\Projects\Lecture-7-AdvanceLoops\NumbersFromNTo1\bin\Debug\NumbersFromNTo1.exe.config
+C:\Users\Timofeev\Documents\Visual Studio 2017\Projects\Lecture-7-AdvanceLoops\NumbersFromNTo1\bin\Debug\NumbersFromNTo1.exe
+C:\Users\Timofeev\Documents\Visual Studio 2017\Projects\Lecture-7-AdvanceLoops\NumbersFromNTo1\bin\Debug\NumbersFromNTo1.pdb
+C:\Users\Timofeev\Documents\Visual Studio 2017\Projects\Lecture-7-AdvanceLoops\NumbersFromNTo1\obj\Debug\NumbersFromNTo1.exe
+C:\Users\Timofeev\Documents\Visual Studio 2017\Projects\Lecture-7-AdvanceLoops\NumbersFromNTo1\obj\Debug\NumbersFromNTo1.pdb

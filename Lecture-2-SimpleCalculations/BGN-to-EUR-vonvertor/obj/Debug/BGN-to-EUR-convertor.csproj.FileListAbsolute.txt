@@ -1,0 +1,9 @@
+C:\Users\Timofeev\Documents\Visual Studio 2015\Projects\Lecture-2\BGN-to-EUR-vonvertor\bin\Debug\BGN-to-EUR-vonvertor.exe.config
+C:\Users\Timofeev\Documents\Visual Studio 2015\Projects\Lecture-2\BGN-to-EUR-vonvertor\bin\Debug\BGN-to-EUR-vonvertor.exe
+C:\Users\Timofeev\Documents\Visual Studio 2015\Projects\Lecture-2\BGN-to-EUR-vonvertor\bin\Debug\BGN-to-EUR-vonvertor.pdb
+C:\Users\Timofeev\Documents\Visual Studio 2015\Projects\Lecture-2\BGN-to-EUR-vonvertor\obj\Debug\BGN-to-EUR-convertor.csprojResolveAssemblyReference.cache
+C:\Users\Timofeev\Documents\Visual Studio 2015\Projects\Lecture-2\BGN-to-EUR-vonvertor\obj\Debug\BGN_to_EUR_vonvertor.FormConvertor.resources
+C:\Users\Timofeev\Documents\Visual Studio 2015\Projects\Lecture-2\BGN-to-EUR-vonvertor\obj\Debug\BGN_to_EUR_vonvertor.Properties.Resources.resources
+C:\Users\Timofeev\Documents\Visual Studio 2015\Projects\Lecture-2\BGN-to-EUR-vonvertor\obj\Debug\BGN-to-EUR-convertor.csproj.GenerateResource.Cache
+C:\Users\Timofeev\Documents\Visual Studio 2015\Projects\Lecture-2\BGN-to-EUR-vonvertor\obj\Debug\BGN-to-EUR-vonvertor.exe
+C:\Users\Timofeev\Documents\Visual Studio 2015\Projects\Lecture-2\BGN-to-EUR-vonvertor\obj\Debug\BGN-to-EUR-vonvertor.pdb

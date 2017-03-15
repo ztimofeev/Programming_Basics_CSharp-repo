@@ -1,0 +1,5 @@
+C:\Users\Timofeev\Documents\Visual Studio 2017\Projects\Lecture-7-AdvanceLoops\Secuence2k+1\bin\Debug\Secuence2k+1.exe.config
+C:\Users\Timofeev\Documents\Visual Studio 2017\Projects\Lecture-7-AdvanceLoops\Secuence2k+1\bin\Debug\Secuence2k+1.exe
+C:\Users\Timofeev\Documents\Visual Studio 2017\Projects\Lecture-7-AdvanceLoops\Secuence2k+1\bin\Debug\Secuence2k+1.pdb
+C:\Users\Timofeev\Documents\Visual Studio 2017\Projects\Lecture-7-AdvanceLoops\Secuence2k+1\obj\Debug\Secuence2k+1.exe
+C:\Users\Timofeev\Documents\Visual Studio 2017\Projects\Lecture-7-AdvanceLoops\Secuence2k+1\obj\Debug\Secuence2k+1.pdb

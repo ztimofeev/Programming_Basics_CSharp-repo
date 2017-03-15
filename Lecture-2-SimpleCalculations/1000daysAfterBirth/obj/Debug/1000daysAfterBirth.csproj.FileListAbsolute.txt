@@ -1,0 +1,6 @@
+C:\Users\Timofeev\Documents\Visual Studio 2015\Projects\Lecture-2\1000daysAfterBirth\bin\Debug\1000daysAfterBirth.exe.config
+C:\Users\Timofeev\Documents\Visual Studio 2015\Projects\Lecture-2\1000daysAfterBirth\bin\Debug\1000daysAfterBirth.exe
+C:\Users\Timofeev\Documents\Visual Studio 2015\Projects\Lecture-2\1000daysAfterBirth\bin\Debug\1000daysAfterBirth.pdb
+C:\Users\Timofeev\Documents\Visual Studio 2015\Projects\Lecture-2\1000daysAfterBirth\obj\Debug\1000daysAfterBirth.csprojResolveAssemblyReference.cache
+C:\Users\Timofeev\Documents\Visual Studio 2015\Projects\Lecture-2\1000daysAfterBirth\obj\Debug\1000daysAfterBirth.exe
+C:\Users\Timofeev\Documents\Visual Studio 2015\Projects\Lecture-2\1000daysAfterBirth\obj\Debug\1000daysAfterBirth.pdb

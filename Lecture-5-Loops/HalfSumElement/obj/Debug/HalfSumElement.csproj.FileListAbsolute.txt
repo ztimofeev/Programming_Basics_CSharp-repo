@@ -1,0 +1,6 @@
+C:\Users\Timofeev\Documents\Visual Studio 2017\Projects\Lecture-5-Loops\HalfSumElement\bin\Debug\HalfSumElement.exe.config
+C:\Users\Timofeev\Documents\Visual Studio 2017\Projects\Lecture-5-Loops\HalfSumElement\bin\Debug\HalfSumElement.exe
+C:\Users\Timofeev\Documents\Visual Studio 2017\Projects\Lecture-5-Loops\HalfSumElement\bin\Debug\HalfSumElement.pdb
+C:\Users\Timofeev\Documents\Visual Studio 2017\Projects\Lecture-5-Loops\HalfSumElement\obj\Debug\HalfSumElement.exe
+C:\Users\Timofeev\Documents\Visual Studio 2017\Projects\Lecture-5-Loops\HalfSumElement\obj\Debug\HalfSumElement.pdb
+C:\Users\Timofeev\Documents\Visual Studio 2017\Projects\Lecture-5-Loops\HalfSumElement\obj\Debug\HalfSumElement.csprojResolveAssemblyReference.cache

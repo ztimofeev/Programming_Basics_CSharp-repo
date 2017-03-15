@@ -1,0 +1,6 @@
+C:\Users\Timofeev\Documents\Visual Studio 2017\Projects\Lecture-5-Loops\NumbersFrom1to100\bin\Debug\NumbersFrom1to100.exe.config
+C:\Users\Timofeev\Documents\Visual Studio 2017\Projects\Lecture-5-Loops\NumbersFrom1to100\bin\Debug\NumbersFrom1to100.exe
+C:\Users\Timofeev\Documents\Visual Studio 2017\Projects\Lecture-5-Loops\NumbersFrom1to100\bin\Debug\NumbersFrom1to100.pdb
+C:\Users\Timofeev\Documents\Visual Studio 2017\Projects\Lecture-5-Loops\NumbersFrom1to100\obj\Debug\NumbersFrom1to100.csprojResolveAssemblyReference.cache
+C:\Users\Timofeev\Documents\Visual Studio 2017\Projects\Lecture-5-Loops\NumbersFrom1to100\obj\Debug\NumbersFrom1to100.exe
+C:\Users\Timofeev\Documents\Visual Studio 2017\Projects\Lecture-5-Loops\NumbersFrom1to100\obj\Debug\NumbersFrom1to100.pdb

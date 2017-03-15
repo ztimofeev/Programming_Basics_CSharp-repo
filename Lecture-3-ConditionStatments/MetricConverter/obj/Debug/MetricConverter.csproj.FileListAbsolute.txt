@@ -1,0 +1,6 @@
+c:\users\timofeev\documents\visual studio 2015\Projects\Lecture3-SimpleConditions\MetricConverter\bin\Debug\MetricConverter.exe.config
+c:\users\timofeev\documents\visual studio 2015\Projects\Lecture3-SimpleConditions\MetricConverter\bin\Debug\MetricConverter.exe
+c:\users\timofeev\documents\visual studio 2015\Projects\Lecture3-SimpleConditions\MetricConverter\bin\Debug\MetricConverter.pdb
+c:\users\timofeev\documents\visual studio 2015\Projects\Lecture3-SimpleConditions\MetricConverter\obj\Debug\MetricConverter.csprojResolveAssemblyReference.cache
+c:\users\timofeev\documents\visual studio 2015\Projects\Lecture3-SimpleConditions\MetricConverter\obj\Debug\MetricConverter.exe
+c:\users\timofeev\documents\visual studio 2015\Projects\Lecture3-SimpleConditions\MetricConverter\obj\Debug\MetricConverter.pdb

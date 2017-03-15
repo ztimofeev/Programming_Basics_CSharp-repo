@@ -1,0 +1,5 @@
+c:\users\timofeev\documents\visual studio 2015\Projects\Lecture3-SimpleConditions\EvenOrOdd\bin\Debug\EvenOrOdd.exe.config
+c:\users\timofeev\documents\visual studio 2015\Projects\Lecture3-SimpleConditions\EvenOrOdd\bin\Debug\EvenOrOdd.exe
+c:\users\timofeev\documents\visual studio 2015\Projects\Lecture3-SimpleConditions\EvenOrOdd\bin\Debug\EvenOrOdd.pdb
+c:\users\timofeev\documents\visual studio 2015\Projects\Lecture3-SimpleConditions\EvenOrOdd\obj\Debug\EvenOrOdd.exe
+c:\users\timofeev\documents\visual studio 2015\Projects\Lecture3-SimpleConditions\EvenOrOdd\obj\Debug\EvenOrOdd.pdb

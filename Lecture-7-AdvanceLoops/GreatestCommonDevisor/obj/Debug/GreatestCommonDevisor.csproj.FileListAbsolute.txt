@@ -1,0 +1,6 @@
+C:\Users\Timofeev\Documents\Visual Studio 2017\Projects\Lecture-7-AdvanceLoops\GreatestCommonDevisor\bin\Debug\GreatestCommonDevisor.exe.config
+C:\Users\Timofeev\Documents\Visual Studio 2017\Projects\Lecture-7-AdvanceLoops\GreatestCommonDevisor\bin\Debug\GreatestCommonDevisor.exe
+C:\Users\Timofeev\Documents\Visual Studio 2017\Projects\Lecture-7-AdvanceLoops\GreatestCommonDevisor\bin\Debug\GreatestCommonDevisor.pdb
+C:\Users\Timofeev\Documents\Visual Studio 2017\Projects\Lecture-7-AdvanceLoops\GreatestCommonDevisor\obj\Debug\GreatestCommonDevisor.exe
+C:\Users\Timofeev\Documents\Visual Studio 2017\Projects\Lecture-7-AdvanceLoops\GreatestCommonDevisor\obj\Debug\GreatestCommonDevisor.pdb
+C:\Users\Timofeev\Documents\Visual Studio 2017\Projects\Lecture-7-AdvanceLoops\GreatestCommonDevisor\obj\Debug\GreatestCommonDevisor.csprojResolveAssemblyReference.cache

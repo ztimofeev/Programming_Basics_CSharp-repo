@@ -1,0 +1,6 @@
+C:\Users\Timofeev\Documents\Visual Studio 2017\Projects\Lecture-7-AdvanceLoops\NumbersOverThree\bin\Debug\NumbersOverThree.exe.config
+C:\Users\Timofeev\Documents\Visual Studio 2017\Projects\Lecture-7-AdvanceLoops\NumbersOverThree\bin\Debug\NumbersOverThree.exe
+C:\Users\Timofeev\Documents\Visual Studio 2017\Projects\Lecture-7-AdvanceLoops\NumbersOverThree\bin\Debug\NumbersOverThree.pdb
+C:\Users\Timofeev\Documents\Visual Studio 2017\Projects\Lecture-7-AdvanceLoops\NumbersOverThree\obj\Debug\NumbersOverThree.csprojResolveAssemblyReference.cache
+C:\Users\Timofeev\Documents\Visual Studio 2017\Projects\Lecture-7-AdvanceLoops\NumbersOverThree\obj\Debug\NumbersOverThree.exe
+C:\Users\Timofeev\Documents\Visual Studio 2017\Projects\Lecture-7-AdvanceLoops\NumbersOverThree\obj\Debug\NumbersOverThree.pdb

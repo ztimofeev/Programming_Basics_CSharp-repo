@@ -1,0 +1,5 @@
+C:\Users\Timofeev\Documents\Visual Studio 2017\Projects\Lecture-6-DrowingWithLoops\Rombus\bin\Debug\Rombus.exe.config
+C:\Users\Timofeev\Documents\Visual Studio 2017\Projects\Lecture-6-DrowingWithLoops\Rombus\bin\Debug\Rombus.exe
+C:\Users\Timofeev\Documents\Visual Studio 2017\Projects\Lecture-6-DrowingWithLoops\Rombus\bin\Debug\Rombus.pdb
+C:\Users\Timofeev\Documents\Visual Studio 2017\Projects\Lecture-6-DrowingWithLoops\Rombus\obj\Debug\Rombus.exe
+C:\Users\Timofeev\Documents\Visual Studio 2017\Projects\Lecture-6-DrowingWithLoops\Rombus\obj\Debug\Rombus.pdb

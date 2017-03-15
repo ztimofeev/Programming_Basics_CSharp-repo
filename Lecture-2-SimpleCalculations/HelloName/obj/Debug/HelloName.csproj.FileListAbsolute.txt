@@ -1,0 +1,5 @@
+C:\Users\Timofeev\Documents\Visual Studio 2015\Projects\Lecture-2\HelloName\bin\Debug\HelloName.exe.config
+C:\Users\Timofeev\Documents\Visual Studio 2015\Projects\Lecture-2\HelloName\bin\Debug\HelloName.exe
+C:\Users\Timofeev\Documents\Visual Studio 2015\Projects\Lecture-2\HelloName\bin\Debug\HelloName.pdb
+C:\Users\Timofeev\Documents\Visual Studio 2015\Projects\Lecture-2\HelloName\obj\Debug\HelloName.exe
+C:\Users\Timofeev\Documents\Visual Studio 2015\Projects\Lecture-2\HelloName\obj\Debug\HelloName.pdb

@@ -1,0 +1,5 @@
+C:\Users\Timofeev\Documents\Visual Studio 2015\Projects\Lecture-2\CircleAreaAndPerimeter\bin\Debug\CircleAreaAndPerimeter.exe.config
+C:\Users\Timofeev\Documents\Visual Studio 2015\Projects\Lecture-2\CircleAreaAndPerimeter\bin\Debug\CircleAreaAndPerimeter.exe
+C:\Users\Timofeev\Documents\Visual Studio 2015\Projects\Lecture-2\CircleAreaAndPerimeter\bin\Debug\CircleAreaAndPerimeter.pdb
+C:\Users\Timofeev\Documents\Visual Studio 2015\Projects\Lecture-2\CircleAreaAndPerimeter\obj\Debug\CircleAreaAndPerimeter.exe
+C:\Users\Timofeev\Documents\Visual Studio 2015\Projects\Lecture-2\CircleAreaAndPerimeter\obj\Debug\CircleAreaAndPerimeter.pdb

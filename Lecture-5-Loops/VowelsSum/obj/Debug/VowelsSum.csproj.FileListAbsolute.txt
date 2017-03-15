@@ -1,0 +1,5 @@
+C:\Users\Timofeev\Documents\Visual Studio 2017\Projects\Lecture-5-Loops\VowelsSum\bin\Debug\VowelsSum.exe.config
+C:\Users\Timofeev\Documents\Visual Studio 2017\Projects\Lecture-5-Loops\VowelsSum\bin\Debug\VowelsSum.exe
+C:\Users\Timofeev\Documents\Visual Studio 2017\Projects\Lecture-5-Loops\VowelsSum\bin\Debug\VowelsSum.pdb
+C:\Users\Timofeev\Documents\Visual Studio 2017\Projects\Lecture-5-Loops\VowelsSum\obj\Debug\VowelsSum.exe
+C:\Users\Timofeev\Documents\Visual Studio 2017\Projects\Lecture-5-Loops\VowelsSum\obj\Debug\VowelsSum.pdb

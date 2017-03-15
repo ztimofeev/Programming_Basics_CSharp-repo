@@ -1,0 +1,5 @@
+C:\Users\Timofeev\Documents\Visual Studio 2015\Projects\Lecture-2\UsdToBgn\bin\Debug\UsdToBgn.exe.config
+C:\Users\Timofeev\Documents\Visual Studio 2015\Projects\Lecture-2\UsdToBgn\bin\Debug\UsdToBgn.exe
+C:\Users\Timofeev\Documents\Visual Studio 2015\Projects\Lecture-2\UsdToBgn\bin\Debug\UsdToBgn.pdb
+C:\Users\Timofeev\Documents\Visual Studio 2015\Projects\Lecture-2\UsdToBgn\obj\Debug\UsdToBgn.exe
+C:\Users\Timofeev\Documents\Visual Studio 2015\Projects\Lecture-2\UsdToBgn\obj\Debug\UsdToBgn.pdb

@@ -1,0 +1,6 @@
+C:\Users\Timofeev\Documents\Visual Studio 2015\Projects\Lecture3-SimpleConditions\EqualsWords\bin\Debug\EqualsWords.exe.config
+C:\Users\Timofeev\Documents\Visual Studio 2015\Projects\Lecture3-SimpleConditions\EqualsWords\bin\Debug\EqualsWords.exe
+C:\Users\Timofeev\Documents\Visual Studio 2015\Projects\Lecture3-SimpleConditions\EqualsWords\bin\Debug\EqualsWords.pdb
+C:\Users\Timofeev\Documents\Visual Studio 2015\Projects\Lecture3-SimpleConditions\EqualsWords\obj\Debug\EqualsWords.csprojResolveAssemblyReference.cache
+C:\Users\Timofeev\Documents\Visual Studio 2015\Projects\Lecture3-SimpleConditions\EqualsWords\obj\Debug\EqualsWords.exe
+C:\Users\Timofeev\Documents\Visual Studio 2015\Projects\Lecture3-SimpleConditions\EqualsWords\obj\Debug\EqualsWords.pdb

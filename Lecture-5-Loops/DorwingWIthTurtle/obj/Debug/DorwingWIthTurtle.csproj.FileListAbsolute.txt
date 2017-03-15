@@ -1,0 +1,10 @@
+C:\Users\Timofeev\Documents\Visual Studio 2017\Projects\Lecture-5-Loops\DorwingWIthTurtle\bin\Debug\DorwingWIthTurtle.exe.config
+C:\Users\Timofeev\Documents\Visual Studio 2017\Projects\Lecture-5-Loops\DorwingWIthTurtle\bin\Debug\DorwingWIthTurtle.exe
+C:\Users\Timofeev\Documents\Visual Studio 2017\Projects\Lecture-5-Loops\DorwingWIthTurtle\bin\Debug\DorwingWIthTurtle.pdb
+C:\Users\Timofeev\Documents\Visual Studio 2017\Projects\Lecture-5-Loops\DorwingWIthTurtle\bin\Debug\Nakov.TurtleGraphics.dll
+C:\Users\Timofeev\Documents\Visual Studio 2017\Projects\Lecture-5-Loops\DorwingWIthTurtle\obj\Debug\DorwingWIthTurtle.csprojResolveAssemblyReference.cache
+C:\Users\Timofeev\Documents\Visual Studio 2017\Projects\Lecture-5-Loops\DorwingWIthTurtle\obj\Debug\DorwingWIthTurtle.Form1.resources
+C:\Users\Timofeev\Documents\Visual Studio 2017\Projects\Lecture-5-Loops\DorwingWIthTurtle\obj\Debug\DorwingWIthTurtle.Properties.Resources.resources
+C:\Users\Timofeev\Documents\Visual Studio 2017\Projects\Lecture-5-Loops\DorwingWIthTurtle\obj\Debug\DorwingWIthTurtle.csproj.GenerateResource.Cache
+C:\Users\Timofeev\Documents\Visual Studio 2017\Projects\Lecture-5-Loops\DorwingWIthTurtle\obj\Debug\DorwingWIthTurtle.exe
+C:\Users\Timofeev\Documents\Visual Studio 2017\Projects\Lecture-5-Loops\DorwingWIthTurtle\obj\Debug\DorwingWIthTurtle.pdb

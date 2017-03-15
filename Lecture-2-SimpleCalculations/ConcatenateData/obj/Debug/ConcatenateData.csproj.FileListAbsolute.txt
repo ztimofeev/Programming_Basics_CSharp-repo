@@ -1,0 +1,5 @@
+C:\Users\Timofeev\Documents\Visual Studio 2015\Projects\Lecture-2\ConcatenateData\bin\Debug\ConcatenateData.exe.config
+C:\Users\Timofeev\Documents\Visual Studio 2015\Projects\Lecture-2\ConcatenateData\bin\Debug\ConcatenateData.exe
+C:\Users\Timofeev\Documents\Visual Studio 2015\Projects\Lecture-2\ConcatenateData\bin\Debug\ConcatenateData.pdb
+C:\Users\Timofeev\Documents\Visual Studio 2015\Projects\Lecture-2\ConcatenateData\obj\Debug\ConcatenateData.exe
+C:\Users\Timofeev\Documents\Visual Studio 2015\Projects\Lecture-2\ConcatenateData\obj\Debug\ConcatenateData.pdb

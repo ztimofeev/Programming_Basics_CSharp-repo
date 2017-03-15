@@ -1,0 +1,9 @@
+c:\users\timofeev\documents\visual studio 2015\Projects\sumator\sumator\bin\Debug\sumator.exe.config
+c:\users\timofeev\documents\visual studio 2015\Projects\sumator\sumator\bin\Debug\sumator.exe
+c:\users\timofeev\documents\visual studio 2015\Projects\sumator\sumator\bin\Debug\sumator.pdb
+c:\users\timofeev\documents\visual studio 2015\Projects\sumator\sumator\obj\Debug\sumator.csprojResolveAssemblyReference.cache
+c:\users\timofeev\documents\visual studio 2015\Projects\sumator\sumator\obj\Debug\sumator.FormCalculate.resources
+c:\users\timofeev\documents\visual studio 2015\Projects\sumator\sumator\obj\Debug\sumator.Properties.Resources.resources
+c:\users\timofeev\documents\visual studio 2015\Projects\sumator\sumator\obj\Debug\sumator.csproj.GenerateResource.Cache
+c:\users\timofeev\documents\visual studio 2015\Projects\sumator\sumator\obj\Debug\sumator.exe
+c:\users\timofeev\documents\visual studio 2015\Projects\sumator\sumator\obj\Debug\sumator.pdb

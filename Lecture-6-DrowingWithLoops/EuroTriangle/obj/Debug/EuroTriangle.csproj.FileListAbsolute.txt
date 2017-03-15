@@ -1,0 +1,5 @@
+C:\Users\Timofeev\Documents\Visual Studio 2017\Projects\Lecture-6-DrowingWithLoops\EuroTriangle\bin\Debug\EuroTriangle.exe.config
+C:\Users\Timofeev\Documents\Visual Studio 2017\Projects\Lecture-6-DrowingWithLoops\EuroTriangle\bin\Debug\EuroTriangle.exe
+C:\Users\Timofeev\Documents\Visual Studio 2017\Projects\Lecture-6-DrowingWithLoops\EuroTriangle\bin\Debug\EuroTriangle.pdb
+C:\Users\Timofeev\Documents\Visual Studio 2017\Projects\Lecture-6-DrowingWithLoops\EuroTriangle\obj\Debug\EuroTriangle.exe
+C:\Users\Timofeev\Documents\Visual Studio 2017\Projects\Lecture-6-DrowingWithLoops\EuroTriangle\obj\Debug\EuroTriangle.pdb

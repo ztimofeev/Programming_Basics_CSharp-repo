@@ -1,0 +1,5 @@
+C:\Users\Timofeev\Documents\Visual Studio 2017\Projects\Lecture-5-Loops\EvenOddSum\bin\Debug\EvenOddSum.exe.config
+C:\Users\Timofeev\Documents\Visual Studio 2017\Projects\Lecture-5-Loops\EvenOddSum\bin\Debug\EvenOddSum.exe
+C:\Users\Timofeev\Documents\Visual Studio 2017\Projects\Lecture-5-Loops\EvenOddSum\bin\Debug\EvenOddSum.pdb
+C:\Users\Timofeev\Documents\Visual Studio 2017\Projects\Lecture-5-Loops\EvenOddSum\obj\Debug\EvenOddSum.exe
+C:\Users\Timofeev\Documents\Visual Studio 2017\Projects\Lecture-5-Loops\EvenOddSum\obj\Debug\EvenOddSum.pdb

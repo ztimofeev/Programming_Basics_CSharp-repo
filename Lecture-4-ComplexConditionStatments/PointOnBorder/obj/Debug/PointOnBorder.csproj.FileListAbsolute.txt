@@ -1,0 +1,5 @@
+c:\users\timofeev\documents\visual studio 2015\Projects\Lecture 4\PointOnBorder\bin\Debug\PointOnBorder.exe.config
+c:\users\timofeev\documents\visual studio 2015\Projects\Lecture 4\PointOnBorder\bin\Debug\PointOnBorder.exe
+c:\users\timofeev\documents\visual studio 2015\Projects\Lecture 4\PointOnBorder\bin\Debug\PointOnBorder.pdb
+c:\users\timofeev\documents\visual studio 2015\Projects\Lecture 4\PointOnBorder\obj\Debug\PointOnBorder.exe
+c:\users\timofeev\documents\visual studio 2015\Projects\Lecture 4\PointOnBorder\obj\Debug\PointOnBorder.pdb

@@ -1,0 +1,6 @@
+C:\Users\Timofeev\Documents\Visual Studio 2015\Projects\Lecture-3-ConditionStatments\TreeEqualsNumbers\bin\Debug\TreeEqualsNumbers.exe.config
+C:\Users\Timofeev\Documents\Visual Studio 2015\Projects\Lecture-3-ConditionStatments\TreeEqualsNumbers\bin\Debug\TreeEqualsNumbers.exe
+C:\Users\Timofeev\Documents\Visual Studio 2015\Projects\Lecture-3-ConditionStatments\TreeEqualsNumbers\bin\Debug\TreeEqualsNumbers.pdb
+C:\Users\Timofeev\Documents\Visual Studio 2015\Projects\Lecture-3-ConditionStatments\TreeEqualsNumbers\obj\Debug\TreeEqualsNumbers.csprojResolveAssemblyReference.cache
+C:\Users\Timofeev\Documents\Visual Studio 2015\Projects\Lecture-3-ConditionStatments\TreeEqualsNumbers\obj\Debug\TreeEqualsNumbers.exe
+C:\Users\Timofeev\Documents\Visual Studio 2015\Projects\Lecture-3-ConditionStatments\TreeEqualsNumbers\obj\Debug\TreeEqualsNumbers.pdb

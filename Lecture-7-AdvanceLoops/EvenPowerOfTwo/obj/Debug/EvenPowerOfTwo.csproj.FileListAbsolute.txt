@@ -1,0 +1,5 @@
+C:\Users\Timofeev\Documents\Visual Studio 2017\Projects\Lecture-7-AdvanceLoops\EvenPowerOfTwo\bin\Debug\EvenPowerOfTwo.exe.config
+C:\Users\Timofeev\Documents\Visual Studio 2017\Projects\Lecture-7-AdvanceLoops\EvenPowerOfTwo\bin\Debug\EvenPowerOfTwo.exe
+C:\Users\Timofeev\Documents\Visual Studio 2017\Projects\Lecture-7-AdvanceLoops\EvenPowerOfTwo\bin\Debug\EvenPowerOfTwo.pdb
+C:\Users\Timofeev\Documents\Visual Studio 2017\Projects\Lecture-7-AdvanceLoops\EvenPowerOfTwo\obj\Debug\EvenPowerOfTwo.exe
+C:\Users\Timofeev\Documents\Visual Studio 2017\Projects\Lecture-7-AdvanceLoops\EvenPowerOfTwo\obj\Debug\EvenPowerOfTwo.pdb

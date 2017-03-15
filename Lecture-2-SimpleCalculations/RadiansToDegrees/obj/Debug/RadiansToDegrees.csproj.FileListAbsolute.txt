@@ -1,0 +1,6 @@
+C:\Users\Timofeev\Documents\Visual Studio 2015\Projects\Lecture-2\RadiansToDegrees\bin\Debug\RadiansToDegrees.exe.config
+C:\Users\Timofeev\Documents\Visual Studio 2015\Projects\Lecture-2\RadiansToDegrees\bin\Debug\RadiansToDegrees.exe
+C:\Users\Timofeev\Documents\Visual Studio 2015\Projects\Lecture-2\RadiansToDegrees\bin\Debug\RadiansToDegrees.pdb
+C:\Users\Timofeev\Documents\Visual Studio 2015\Projects\Lecture-2\RadiansToDegrees\obj\Debug\RadiansToDegrees.csprojResolveAssemblyReference.cache
+C:\Users\Timofeev\Documents\Visual Studio 2015\Projects\Lecture-2\RadiansToDegrees\obj\Debug\RadiansToDegrees.exe
+C:\Users\Timofeev\Documents\Visual Studio 2015\Projects\Lecture-2\RadiansToDegrees\obj\Debug\RadiansToDegrees.pdb

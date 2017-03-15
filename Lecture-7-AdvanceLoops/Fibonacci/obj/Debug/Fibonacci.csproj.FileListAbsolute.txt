@@ -1,0 +1,6 @@
+c:\users\timofeev\documents\visual studio 2017\Projects\Lecture-7-AdvanceLoops\Fibonacci\bin\Debug\Fibonacci.exe.config
+c:\users\timofeev\documents\visual studio 2017\Projects\Lecture-7-AdvanceLoops\Fibonacci\bin\Debug\Fibonacci.exe
+c:\users\timofeev\documents\visual studio 2017\Projects\Lecture-7-AdvanceLoops\Fibonacci\bin\Debug\Fibonacci.pdb
+c:\users\timofeev\documents\visual studio 2017\Projects\Lecture-7-AdvanceLoops\Fibonacci\obj\Debug\Fibonacci.csprojResolveAssemblyReference.cache
+c:\users\timofeev\documents\visual studio 2017\Projects\Lecture-7-AdvanceLoops\Fibonacci\obj\Debug\Fibonacci.exe
+c:\users\timofeev\documents\visual studio 2017\Projects\Lecture-7-AdvanceLoops\Fibonacci\obj\Debug\Fibonacci.pdb

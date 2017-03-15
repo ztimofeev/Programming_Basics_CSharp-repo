@@ -1,0 +1,12 @@
+c:\users\timofeev\documents\visual studio 2015\Projects\Lecture 4\MathOperations\bin\Debug\MathOperations.exe.config
+c:\users\timofeev\documents\visual studio 2015\Projects\Lecture 4\MathOperations\bin\Debug\MathOperations.exe
+c:\users\timofeev\documents\visual studio 2015\Projects\Lecture 4\MathOperations\bin\Debug\MathOperations.pdb
+c:\users\timofeev\documents\visual studio 2015\Projects\Lecture 4\MathOperations\obj\Debug\MathOperations.csprojResolveAssemblyReference.cache
+c:\users\timofeev\documents\visual studio 2015\Projects\Lecture 4\MathOperations\obj\Debug\MathOperations.exe
+c:\users\timofeev\documents\visual studio 2015\Projects\Lecture 4\MathOperations\obj\Debug\MathOperations.pdb
+C:\Users\Timofeev\Documents\Visual Studio 2015\Projects\Lecture-4-ComplexConditionStatments\MathOperations\bin\Debug\MathOperations.exe.config
+C:\Users\Timofeev\Documents\Visual Studio 2015\Projects\Lecture-4-ComplexConditionStatments\MathOperations\bin\Debug\MathOperations.exe
+C:\Users\Timofeev\Documents\Visual Studio 2015\Projects\Lecture-4-ComplexConditionStatments\MathOperations\bin\Debug\MathOperations.pdb
+C:\Users\Timofeev\Documents\Visual Studio 2015\Projects\Lecture-4-ComplexConditionStatments\MathOperations\obj\Debug\MathOperations.csprojResolveAssemblyReference.cache
+C:\Users\Timofeev\Documents\Visual Studio 2015\Projects\Lecture-4-ComplexConditionStatments\MathOperations\obj\Debug\MathOperations.exe
+C:\Users\Timofeev\Documents\Visual Studio 2015\Projects\Lecture-4-ComplexConditionStatments\MathOperations\obj\Debug\MathOperations.pdb

@@ -1,0 +1,5 @@
+c:\users\timofeev\documents\visual studio 2015\Projects\Lecture3-SimpleConditions\BonusScore\bin\Debug\BonusScore.exe.config
+c:\users\timofeev\documents\visual studio 2015\Projects\Lecture3-SimpleConditions\BonusScore\bin\Debug\BonusScore.exe
+c:\users\timofeev\documents\visual studio 2015\Projects\Lecture3-SimpleConditions\BonusScore\bin\Debug\BonusScore.pdb
+c:\users\timofeev\documents\visual studio 2015\Projects\Lecture3-SimpleConditions\BonusScore\obj\Debug\BonusScore.exe
+c:\users\timofeev\documents\visual studio 2015\Projects\Lecture3-SimpleConditions\BonusScore\obj\Debug\BonusScore.pdb

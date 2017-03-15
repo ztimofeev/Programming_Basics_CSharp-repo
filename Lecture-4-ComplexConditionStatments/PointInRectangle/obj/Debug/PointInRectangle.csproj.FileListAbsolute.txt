@@ -1,0 +1,6 @@
+c:\users\timofeev\documents\visual studio 2015\Projects\Lecture 4\PointInRectangle\bin\Debug\PointInRectangle.exe.config
+c:\users\timofeev\documents\visual studio 2015\Projects\Lecture 4\PointInRectangle\bin\Debug\PointInRectangle.exe
+c:\users\timofeev\documents\visual studio 2015\Projects\Lecture 4\PointInRectangle\bin\Debug\PointInRectangle.pdb
+c:\users\timofeev\documents\visual studio 2015\Projects\Lecture 4\PointInRectangle\obj\Debug\PointInRectangle.csprojResolveAssemblyReference.cache
+c:\users\timofeev\documents\visual studio 2015\Projects\Lecture 4\PointInRectangle\obj\Debug\PointInRectangle.exe
+c:\users\timofeev\documents\visual studio 2015\Projects\Lecture 4\PointInRectangle\obj\Debug\PointInRectangle.pdb

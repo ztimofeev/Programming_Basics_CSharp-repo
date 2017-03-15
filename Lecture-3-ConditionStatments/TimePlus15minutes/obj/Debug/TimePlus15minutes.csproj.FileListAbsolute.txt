@@ -1,0 +1,6 @@
+C:\Users\Timofeev\Documents\Visual Studio 2015\Projects\Lecture-3-ConditionStatments\TimePlus15minutes\bin\Debug\TimePlus15minutes.exe.config
+C:\Users\Timofeev\Documents\Visual Studio 2015\Projects\Lecture-3-ConditionStatments\TimePlus15minutes\bin\Debug\TimePlus15minutes.exe
+C:\Users\Timofeev\Documents\Visual Studio 2015\Projects\Lecture-3-ConditionStatments\TimePlus15minutes\bin\Debug\TimePlus15minutes.pdb
+C:\Users\Timofeev\Documents\Visual Studio 2015\Projects\Lecture-3-ConditionStatments\TimePlus15minutes\obj\Debug\TimePlus15minutes.csprojResolveAssemblyReference.cache
+C:\Users\Timofeev\Documents\Visual Studio 2015\Projects\Lecture-3-ConditionStatments\TimePlus15minutes\obj\Debug\TimePlus15minutes.exe
+C:\Users\Timofeev\Documents\Visual Studio 2015\Projects\Lecture-3-ConditionStatments\TimePlus15minutes\obj\Debug\TimePlus15minutes.pdb

@@ -1,0 +1,5 @@
+C:\Users\Timofeev\Documents\Visual Studio 2015\Projects\Lecture-3-ConditionStatments\SpeedInfo\bin\Debug\SpeedInfo.exe.config
+C:\Users\Timofeev\Documents\Visual Studio 2015\Projects\Lecture-3-ConditionStatments\SpeedInfo\bin\Debug\SpeedInfo.exe
+C:\Users\Timofeev\Documents\Visual Studio 2015\Projects\Lecture-3-ConditionStatments\SpeedInfo\bin\Debug\SpeedInfo.pdb
+C:\Users\Timofeev\Documents\Visual Studio 2015\Projects\Lecture-3-ConditionStatments\SpeedInfo\obj\Debug\SpeedInfo.exe
+C:\Users\Timofeev\Documents\Visual Studio 2015\Projects\Lecture-3-ConditionStatments\SpeedInfo\obj\Debug\SpeedInfo.pdb

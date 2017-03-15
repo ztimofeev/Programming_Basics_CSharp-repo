@@ -1,0 +1,6 @@
+c:\users\timofeev\documents\visual studio 2017\Projects\Lecture-6-DrowingWithLoops\MagicString\bin\Debug\MagicString.exe.config
+c:\users\timofeev\documents\visual studio 2017\Projects\Lecture-6-DrowingWithLoops\MagicString\bin\Debug\MagicString.exe
+c:\users\timofeev\documents\visual studio 2017\Projects\Lecture-6-DrowingWithLoops\MagicString\bin\Debug\MagicString.pdb
+c:\users\timofeev\documents\visual studio 2017\Projects\Lecture-6-DrowingWithLoops\MagicString\obj\Debug\MagicString.csprojResolveAssemblyReference.cache
+c:\users\timofeev\documents\visual studio 2017\Projects\Lecture-6-DrowingWithLoops\MagicString\obj\Debug\MagicString.exe
+c:\users\timofeev\documents\visual studio 2017\Projects\Lecture-6-DrowingWithLoops\MagicString\obj\Debug\MagicString.pdb

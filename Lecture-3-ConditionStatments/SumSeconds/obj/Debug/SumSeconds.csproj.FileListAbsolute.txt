@@ -1,0 +1,5 @@
+c:\users\timofeev\documents\visual studio 2015\Projects\Lecture3-SimpleConditions\SumSeconds\bin\Debug\SumSeconds.exe.config
+c:\users\timofeev\documents\visual studio 2015\Projects\Lecture3-SimpleConditions\SumSeconds\bin\Debug\SumSeconds.exe
+c:\users\timofeev\documents\visual studio 2015\Projects\Lecture3-SimpleConditions\SumSeconds\bin\Debug\SumSeconds.pdb
+c:\users\timofeev\documents\visual studio 2015\Projects\Lecture3-SimpleConditions\SumSeconds\obj\Debug\SumSeconds.exe
+c:\users\timofeev\documents\visual studio 2015\Projects\Lecture3-SimpleConditions\SumSeconds\obj\Debug\SumSeconds.pdb

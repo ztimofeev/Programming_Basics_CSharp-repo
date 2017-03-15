@@ -1,0 +1,6 @@
+c:\users\timofeev\documents\visual studio 2015\Projects\DateAfter1000days\DateAfter1000days\bin\Debug\DateAfter1000days.exe.config
+c:\users\timofeev\documents\visual studio 2015\Projects\DateAfter1000days\DateAfter1000days\bin\Debug\DateAfter1000days.exe
+c:\users\timofeev\documents\visual studio 2015\Projects\DateAfter1000days\DateAfter1000days\bin\Debug\DateAfter1000days.pdb
+c:\users\timofeev\documents\visual studio 2015\Projects\DateAfter1000days\DateAfter1000days\obj\Debug\DateAfter1000days.csprojResolveAssemblyReference.cache
+c:\users\timofeev\documents\visual studio 2015\Projects\DateAfter1000days\DateAfter1000days\obj\Debug\DateAfter1000days.exe
+c:\users\timofeev\documents\visual studio 2015\Projects\DateAfter1000days\DateAfter1000days\obj\Debug\DateAfter1000days.pdb

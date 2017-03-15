@@ -1,0 +1,6 @@
+c:\users\timofeev\documents\visual studio 2015\Projects\Lecture3-SimpleConditions\Numbers0to10\bin\Debug\Numbers0to10.exe.config
+c:\users\timofeev\documents\visual studio 2015\Projects\Lecture3-SimpleConditions\Numbers0to10\bin\Debug\Numbers0to10.exe
+c:\users\timofeev\documents\visual studio 2015\Projects\Lecture3-SimpleConditions\Numbers0to10\bin\Debug\Numbers0to10.pdb
+c:\users\timofeev\documents\visual studio 2015\Projects\Lecture3-SimpleConditions\Numbers0to10\obj\Debug\Numbers0to10.csprojResolveAssemblyReference.cache
+c:\users\timofeev\documents\visual studio 2015\Projects\Lecture3-SimpleConditions\Numbers0to10\obj\Debug\Numbers0to10.exe
+c:\users\timofeev\documents\visual studio 2015\Projects\Lecture3-SimpleConditions\Numbers0to10\obj\Debug\Numbers0to10.pdb

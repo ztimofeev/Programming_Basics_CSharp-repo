@@ -1,0 +1,5 @@
+c:\users\timofeev\documents\visual studio 2015\Projects\rectangle_area.cs\rectangle_area.cs\bin\Debug\rectangle_area.cs.exe.config
+c:\users\timofeev\documents\visual studio 2015\Projects\rectangle_area.cs\rectangle_area.cs\bin\Debug\rectangle_area.cs.exe
+c:\users\timofeev\documents\visual studio 2015\Projects\rectangle_area.cs\rectangle_area.cs\bin\Debug\rectangle_area.cs.pdb
+c:\users\timofeev\documents\visual studio 2015\Projects\rectangle_area.cs\rectangle_area.cs\obj\Debug\rectangle_area.cs.exe
+c:\users\timofeev\documents\visual studio 2015\Projects\rectangle_area.cs\rectangle_area.cs\obj\Debug\rectangle_area.cs.pdb

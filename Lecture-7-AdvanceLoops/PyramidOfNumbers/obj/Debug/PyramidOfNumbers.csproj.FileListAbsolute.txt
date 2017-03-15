@@ -1,0 +1,6 @@
+c:\users\timofeev\documents\visual studio 2017\Projects\Lecture-7-AdvanceLoops\PyramidOfNumbers\bin\Debug\PyramidOfNumbers.exe.config
+c:\users\timofeev\documents\visual studio 2017\Projects\Lecture-7-AdvanceLoops\PyramidOfNumbers\bin\Debug\PyramidOfNumbers.exe
+c:\users\timofeev\documents\visual studio 2017\Projects\Lecture-7-AdvanceLoops\PyramidOfNumbers\bin\Debug\PyramidOfNumbers.pdb
+c:\users\timofeev\documents\visual studio 2017\Projects\Lecture-7-AdvanceLoops\PyramidOfNumbers\obj\Debug\PyramidOfNumbers.csprojResolveAssemblyReference.cache
+c:\users\timofeev\documents\visual studio 2017\Projects\Lecture-7-AdvanceLoops\PyramidOfNumbers\obj\Debug\PyramidOfNumbers.exe
+c:\users\timofeev\documents\visual studio 2017\Projects\Lecture-7-AdvanceLoops\PyramidOfNumbers\obj\Debug\PyramidOfNumbers.pdb

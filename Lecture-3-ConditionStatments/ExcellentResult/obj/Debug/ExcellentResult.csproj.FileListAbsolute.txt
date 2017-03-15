@@ -1,0 +1,6 @@
+c:\users\timofeev\documents\visual studio 2015\Projects\Lecture3-SimpleConditions\ExcellentResult\bin\Debug\ExcellentResult.exe.config
+c:\users\timofeev\documents\visual studio 2015\Projects\Lecture3-SimpleConditions\ExcellentResult\bin\Debug\ExcellentResult.exe
+c:\users\timofeev\documents\visual studio 2015\Projects\Lecture3-SimpleConditions\ExcellentResult\bin\Debug\ExcellentResult.pdb
+c:\users\timofeev\documents\visual studio 2015\Projects\Lecture3-SimpleConditions\ExcellentResult\obj\Debug\ExcellentResult.csprojResolveAssemblyReference.cache
+c:\users\timofeev\documents\visual studio 2015\Projects\Lecture3-SimpleConditions\ExcellentResult\obj\Debug\ExcellentResult.exe
+c:\users\timofeev\documents\visual studio 2015\Projects\Lecture3-SimpleConditions\ExcellentResult\obj\Debug\ExcellentResult.pdb

@@ -1,0 +1,6 @@
+C:\Users\Timofeev\Documents\Visual Studio 2015\Projects\Lecture-2\Task\bin\Debug\Task.exe.config
+C:\Users\Timofeev\Documents\Visual Studio 2015\Projects\Lecture-2\Task\bin\Debug\Task.exe
+C:\Users\Timofeev\Documents\Visual Studio 2015\Projects\Lecture-2\Task\bin\Debug\Task.pdb
+C:\Users\Timofeev\Documents\Visual Studio 2015\Projects\Lecture-2\Task\obj\Debug\RectangleArea.csprojResolveAssemblyReference.cache
+C:\Users\Timofeev\Documents\Visual Studio 2015\Projects\Lecture-2\Task\obj\Debug\Task.exe
+C:\Users\Timofeev\Documents\Visual Studio 2015\Projects\Lecture-2\Task\obj\Debug\Task.pdb

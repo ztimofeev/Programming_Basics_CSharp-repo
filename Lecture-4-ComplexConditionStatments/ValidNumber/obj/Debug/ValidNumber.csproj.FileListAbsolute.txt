@@ -1,0 +1,6 @@
+c:\users\timofeev\documents\visual studio 2015\Projects\Lecture 4\ValidNumber\bin\Debug\ValidNumber.exe.config
+c:\users\timofeev\documents\visual studio 2015\Projects\Lecture 4\ValidNumber\bin\Debug\ValidNumber.exe
+c:\users\timofeev\documents\visual studio 2015\Projects\Lecture 4\ValidNumber\bin\Debug\ValidNumber.pdb
+c:\users\timofeev\documents\visual studio 2015\Projects\Lecture 4\ValidNumber\obj\Debug\ValidNumber.csprojResolveAssemblyReference.cache
+c:\users\timofeev\documents\visual studio 2015\Projects\Lecture 4\ValidNumber\obj\Debug\ValidNumber.exe
+c:\users\timofeev\documents\visual studio 2015\Projects\Lecture 4\ValidNumber\obj\Debug\ValidNumber.pdb

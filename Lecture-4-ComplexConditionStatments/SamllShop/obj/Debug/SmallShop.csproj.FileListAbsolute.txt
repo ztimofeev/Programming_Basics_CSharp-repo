@@ -1,0 +1,5 @@
+c:\users\timofeev\documents\visual studio 2015\Projects\Lecture 4\SamllShop\bin\Debug\SamllShop.exe.config
+c:\users\timofeev\documents\visual studio 2015\Projects\Lecture 4\SamllShop\bin\Debug\SamllShop.exe
+c:\users\timofeev\documents\visual studio 2015\Projects\Lecture 4\SamllShop\bin\Debug\SamllShop.pdb
+c:\users\timofeev\documents\visual studio 2015\Projects\Lecture 4\SamllShop\obj\Debug\SamllShop.exe
+c:\users\timofeev\documents\visual studio 2015\Projects\Lecture 4\SamllShop\obj\Debug\SamllShop.pdb

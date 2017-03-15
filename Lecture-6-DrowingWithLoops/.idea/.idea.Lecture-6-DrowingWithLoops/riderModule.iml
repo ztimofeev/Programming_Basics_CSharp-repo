@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="RIDER_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <content url="file://$MODULE_DIR$/../..">
+      <sourceFolder url="file://$MODULE_DIR$/../../BathmanLogo" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../EuroTriangle" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../Frame" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../MagicString" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../Rectangle" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../Rombus" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../Sunglasses" isTestSource="false" />
+      <excludeFolder url="file://$MODULE_DIR$/../../BathmanLogo/bin" />
+      <excludeFolder url="file://$MODULE_DIR$/../../BathmanLogo/obj" />
+      <excludeFolder url="file://$MODULE_DIR$/../../EuroTriangle/bin" />
+      <excludeFolder url="file://$MODULE_DIR$/../../EuroTriangle/obj" />
+      <excludeFolder url="file://$MODULE_DIR$/../../Frame/bin" />
+      <excludeFolder url="file://$MODULE_DIR$/../../Frame/obj" />
+      <excludeFolder url="file://$MODULE_DIR$/../../MagicString/bin" />
+      <excludeFolder url="file://$MODULE_DIR$/../../MagicString/obj" />
+      <excludeFolder url="file://$MODULE_DIR$/../../Rectangle/bin" />
+      <excludeFolder url="file://$MODULE_DIR$/../../Rectangle/obj" />
+      <excludeFolder url="file://$MODULE_DIR$/../../Rombus/bin" />
+      <excludeFolder url="file://$MODULE_DIR$/../../Rombus/obj" />
+      <excludeFolder url="file://$MODULE_DIR$/../../Sunglasses/bin" />
+      <excludeFolder url="file://$MODULE_DIR$/../../Sunglasses/obj" />
+      <excludeFolder url="file://$MODULE_DIR$/../../packages" />
+    </content>
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>

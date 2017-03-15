@@ -1,0 +1,6 @@
+C:\Users\Timofeev\Documents\Visual Studio 2017\Projects\Lecture-6-DrowingWithLoops\BathmanLogo\bin\Debug\BathmanLogo.exe.config
+C:\Users\Timofeev\Documents\Visual Studio 2017\Projects\Lecture-6-DrowingWithLoops\BathmanLogo\bin\Debug\BathmanLogo.exe
+C:\Users\Timofeev\Documents\Visual Studio 2017\Projects\Lecture-6-DrowingWithLoops\BathmanLogo\bin\Debug\BathmanLogo.pdb
+C:\Users\Timofeev\Documents\Visual Studio 2017\Projects\Lecture-6-DrowingWithLoops\BathmanLogo\obj\Debug\BathmanLogo.csprojResolveAssemblyReference.cache
+C:\Users\Timofeev\Documents\Visual Studio 2017\Projects\Lecture-6-DrowingWithLoops\BathmanLogo\obj\Debug\BathmanLogo.exe
+C:\Users\Timofeev\Documents\Visual Studio 2017\Projects\Lecture-6-DrowingWithLoops\BathmanLogo\obj\Debug\BathmanLogo.pdb

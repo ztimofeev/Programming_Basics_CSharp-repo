@@ -1,0 +1,6 @@
+c:\users\timofeev\documents\visual studio 2015\Projects\rectAsterix.cs\rectAsterix.cs\bin\Debug\rectAsterix.cs.exe.config
+c:\users\timofeev\documents\visual studio 2015\Projects\rectAsterix.cs\rectAsterix.cs\obj\Debug\rectAsterix.cs.csprojResolveAssemblyReference.cache
+c:\users\timofeev\documents\visual studio 2015\Projects\rectAsterix.cs\rectAsterix.cs\bin\Debug\rectAsterix.cs.exe
+c:\users\timofeev\documents\visual studio 2015\Projects\rectAsterix.cs\rectAsterix.cs\bin\Debug\rectAsterix.cs.pdb
+c:\users\timofeev\documents\visual studio 2015\Projects\rectAsterix.cs\rectAsterix.cs\obj\Debug\rectAsterix.cs.exe
+c:\users\timofeev\documents\visual studio 2015\Projects\rectAsterix.cs\rectAsterix.cs\obj\Debug\rectAsterix.cs.pdb

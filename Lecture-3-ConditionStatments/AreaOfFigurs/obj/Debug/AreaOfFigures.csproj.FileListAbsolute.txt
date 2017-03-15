@@ -1,0 +1,11 @@
+C:\Users\Timofeev\Documents\Visual Studio 2015\Projects\Lecture3-SimpleConditions\AreaOfFigurs\bin\Debug\AreaOfFigurs.exe.config
+C:\Users\Timofeev\Documents\Visual Studio 2015\Projects\Lecture3-SimpleConditions\AreaOfFigurs\bin\Debug\AreaOfFigurs.exe
+C:\Users\Timofeev\Documents\Visual Studio 2015\Projects\Lecture3-SimpleConditions\AreaOfFigurs\bin\Debug\AreaOfFigurs.pdb
+C:\Users\Timofeev\Documents\Visual Studio 2015\Projects\Lecture3-SimpleConditions\AreaOfFigurs\obj\Debug\AreaOfFigurs.exe
+C:\Users\Timofeev\Documents\Visual Studio 2015\Projects\Lecture3-SimpleConditions\AreaOfFigurs\obj\Debug\AreaOfFigurs.pdb
+C:\Users\Timofeev\Documents\Visual Studio 2015\Projects\Lecture-3-ConditionStatments\AreaOfFigurs\bin\Debug\AreaOfFigurs.exe.config
+C:\Users\Timofeev\Documents\Visual Studio 2015\Projects\Lecture-3-ConditionStatments\AreaOfFigurs\obj\Debug\AreaOfFigurs.exe
+C:\Users\Timofeev\Documents\Visual Studio 2015\Projects\Lecture-3-ConditionStatments\AreaOfFigurs\obj\Debug\AreaOfFigurs.pdb
+C:\Users\Timofeev\Documents\Visual Studio 2015\Projects\Lecture-3-ConditionStatments\AreaOfFigurs\bin\Debug\AreaOfFigurs.exe
+C:\Users\Timofeev\Documents\Visual Studio 2015\Projects\Lecture-3-ConditionStatments\AreaOfFigurs\bin\Debug\AreaOfFigurs.pdb
+C:\Users\Timofeev\Documents\Visual Studio 2015\Projects\Lecture-3-ConditionStatments\AreaOfFigurs\obj\Debug\AreaOfFigures.csprojResolveAssemblyReference.cache

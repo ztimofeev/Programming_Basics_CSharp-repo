@@ -1,0 +1,6 @@
+C:\Users\Timofeev\Documents\Visual Studio 2017\Projects\Lecture-5-Loops\LeftRightSum\bin\Debug\LeftRightSum.exe.config
+C:\Users\Timofeev\Documents\Visual Studio 2017\Projects\Lecture-5-Loops\LeftRightSum\bin\Debug\LeftRightSum.exe
+C:\Users\Timofeev\Documents\Visual Studio 2017\Projects\Lecture-5-Loops\LeftRightSum\bin\Debug\LeftRightSum.pdb
+C:\Users\Timofeev\Documents\Visual Studio 2017\Projects\Lecture-5-Loops\LeftRightSum\obj\Debug\LeftRightSum.csprojResolveAssemblyReference.cache
+C:\Users\Timofeev\Documents\Visual Studio 2017\Projects\Lecture-5-Loops\LeftRightSum\obj\Debug\LeftRightSum.exe
+C:\Users\Timofeev\Documents\Visual Studio 2017\Projects\Lecture-5-Loops\LeftRightSum\obj\Debug\LeftRightSum.pdb
